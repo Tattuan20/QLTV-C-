@@ -1,0 +1,42 @@
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.AssemblyReference.cache
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Form1.resources
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Properties.Resources.resources
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.GenerateResource.cache
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.CoreCompileInputs.cache
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.exe.config
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.exe
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.pdb
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.exe
+C:\Users\Al\source\repos\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.pdb
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.exe.config
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.exe
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.pdb
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.AssemblyReference.cache
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.SuggestedBindingRedirects.cache
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Form1.resources
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Properties.Resources.resources
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.GenerateResource.cache
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.CoreCompileInputs.cache
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.exe
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.pdb
+C:\Users\Al\source\repos\New folder\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Form2.resources
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.exe.config
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.exe
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\bin\Debug\quanlythuvienn.pdb
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.AssemblyReference.cache
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Form1.resources
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Form2.resources
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Properties.Resources.resources
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.GenerateResource.cache
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.CoreCompileInputs.cache
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.exe
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.pdb
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.Form3.resources
+C:\Users\Van\Documents\Zalo Received Files\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.ResolveComReference.cache
+C:\C#\BTL C#_THi_Lai\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.AssemblyReference.cache
+C:\C#\BTL C#_THi_Lai\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.csproj.SuggestedBindingRedirects.cache
+C:\C#\BTL C#_THi_Lai\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.exe
+C:\C#\BTL C#_THi_Lai\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.pdb
+D:\C#\QUAN LY THU VIEN\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.exe
+D:\C#\QUAN LY THU VIEN\quanlythuvienn\quanlythuvienn\obj\Debug\quanlythuvienn.pdb
